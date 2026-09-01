@@ -3,7 +3,7 @@
 **Environment:** Windows Server 2022, Hyper-V, Windows 10/11 Enterprise  
 **Domain:** compania.local
 
-Welcome to my IT Helpdesk portfolio. This repository documents practical scenarios I built in my personal homelab to simulate daily Tier 1 & Tier 2 IT Support tasks, demonstrating my ability to troubleshoot user issues, manage Active Directory, and maintain network security and permissions.
+This repository documents practical scenarios I built in my personal homelab to simulate daily Tier 1 & Tier 2 IT Support tasks, demonstrating my ability to troubleshoot user issues, manage Active Directory, and maintain network security and permissions.
 
 ---
 
